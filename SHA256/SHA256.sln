@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256", "SHA256\SHA256.csproj", "{623823BE-EBB3-4054-AD19-7C875D9E7A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSHA", "TestSHA\TestSHA.csproj", "{B95D9F16-25FC-4B72-82F0-3519E2E5657A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623823BE-EBB3-4054-AD19-7C875D9E7A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623823BE-EBB3-4054-AD19-7C875D9E7A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623823BE-EBB3-4054-AD19-7C875D9E7A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623823BE-EBB3-4054-AD19-7C875D9E7A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95D9F16-25FC-4B72-82F0-3519E2E5657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95D9F16-25FC-4B72-82F0-3519E2E5657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95D9F16-25FC-4B72-82F0-3519E2E5657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95D9F16-25FC-4B72-82F0-3519E2E5657A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D292D87-9E04-493C-AD98-BC558259A914}
+	EndGlobalSection
+EndGlobal
